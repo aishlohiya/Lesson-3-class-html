@@ -1,2 +1,1 @@
-# Lesson 3 class html 
- HTML and CSS class draft
+First draft of my Website. Will fix errors or features along the way. Just happy that i was able to make it.
