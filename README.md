@@ -1,1 +1,1 @@
-First draft of my Website. Will fix errors or features along the way. Just happy that i was able to make it.
+Main website for projects and blogs
