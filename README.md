@@ -1,1 +1,1 @@
-Main website for projects and blogs
+A website to showcase all my projects and blogs
